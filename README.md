@@ -3,11 +3,13 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=christoph-koschel&label=Profile%20views&color=d612e0&style=flat" alt="christoph-koschel" /></p>
 
-- 🔭 I’m currently working on [Illusion Script](https://github.com/hexaStud/illusion-script) - 🌱 I’m currently re-learning **C/C++** - 👨‍💻 All of my project releases are available at [https://hexa-studio.de](https://hexa-studio.de) - ⚡ Fun
-fact **I'm 16 years old**
+- 🔭 I’m currently working on [Illusion Script](https://github.com/hexaStud/illusion-script) 
+- 🌱 I’m currently re-learning **C/C++** 
+- 👨‍💻 All of my project releases are available at [https://hexa-studio.de](https://hexa-studio.de) 
+- ⚡ Funfact **I'm 16 years old**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"></p>
+<!-- <h3 align="left">Connect with me:</h3>
+<p align="left"></p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
