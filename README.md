@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Illusion Script](https://github.com/hexaStud/illusion-script) 
 - 🌱 I’m currently re-learning **C/C++** 
 - 👨‍💻 All of my project releases are available at [https://hexa-studio.de](https://hexa-studio.de) 
-- ⚡ Funfact **I'm 16 years old**
+- ⚡ Funfact **I'm 17 years old**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left"></p> -->
