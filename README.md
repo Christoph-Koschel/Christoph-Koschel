@@ -5,4 +5,4 @@
 
 - 👨‍💻 All of my project releases are available at [https://bytelab.studio/](https://bytelab.studio/) 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Christoph-Koschel&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Christoph-Koschel&theme=slateorange&langs_count=100)](https://github.com/anuraghazra/github-readme-stats)
